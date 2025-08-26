@@ -60,8 +60,3 @@ Helped thousands of students build real-world AI projects.
 
 ## my linked-in id -https://www.linkedin.com/in/pooja-kumavat-139b21302/
 
-💡 *This README serves as a documentation of my learning experience and the project developed during the bootcamp.*
-
----
-
-Do you want me to also **add a project structure (folders/files)** template for your GitHub repo so it looks complete and recruiter-ready?
